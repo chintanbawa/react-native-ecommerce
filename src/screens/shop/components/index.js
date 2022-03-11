@@ -5,3 +5,5 @@ export * from './filter-tags-list';
 export * from './promotions-list';
 export * from './sale-view';
 export * from './collections-list';
+export * from './search-view';
+export * from './filter-view';

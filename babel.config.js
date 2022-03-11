@@ -10,7 +10,8 @@ module.exports = {
           router: './src/router',
           screens: './src/screens',
           assets: './src/assets',
-          components: './src/components'
+          components: './src/components',
+          data: './src/data'
         }
       }
     ]
